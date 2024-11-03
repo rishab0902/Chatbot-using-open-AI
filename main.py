@@ -2,8 +2,7 @@
 import openai
 
 # Set the API key to access OpenAI's services
-#openai.api_key = "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"
-
+#write oprn api key
 # Define a function to interact with the GPT model
 def chat_with_gpt(prompt):
     # Create a response using the GPT model with the provided prompt
