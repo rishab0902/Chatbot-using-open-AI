@@ -1,5 +1,5 @@
 # Import the OpenAI library to interact with OpenAI's GPT models
-import openai
+
 
 # Set the API key to access OpenAI's services
 #write oprn api key
